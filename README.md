@@ -11,7 +11,7 @@
 pip install ansible-runner ansible
 ```
 
-- 実行する。
+- プログラムを実行する。
 
 ```shell
 $ python3 ansible_ping.py 
